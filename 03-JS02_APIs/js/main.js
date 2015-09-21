@@ -4,7 +4,7 @@ var APIKey;
 
 //loadWeather
 var loadWeather = function(response){
-	
+	hello in class.
 	
 };
 
